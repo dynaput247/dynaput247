@@ -104,6 +104,11 @@ I have very good experience in developing frontend using JavaScript and its fram
 <br>
 <br>
 
+## CERTIFICATE
+<div class="d-block", align="center">
+<img src="Images/Static/certificate.jpg" width=50% alt="Blockchain Certificate" style="background:#161b22;" />
+</div>
+
 ## Usage Graph
 
 <div class="d-block", align="center">
