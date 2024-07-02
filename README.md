@@ -1,7 +1,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=66E40271&center=true&vCenter=true&random=false&width=500&lines=SENIOR+FULL-STACK+and+WEB3+DEVELOPER;SUCCESS+%3D+SKILLS+%2B+PASSIONATE)](https://github.com/dynaput247)
+
 
 
 <p align="center">
