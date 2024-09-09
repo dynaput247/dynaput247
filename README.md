@@ -70,10 +70,9 @@
   
 ## About
 
-With 8+ years' experience, I specialize in crafting innovative solutions for Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi, Smart Contracts, Rust, and more. 
-My track record includes architecting and implementing DeFi projects such as DEX, trading platforms, bonding mechanisms, as well as creating dynamic NFT marketplaces and engaging NFT games.
-My major strength in the web3 space includes a smart contract development, leveraging Solidity for EVM-compatible chains like Ethereum and BSC, as well as for emerging ecosystems like Solana, Terra, Near, EOS, among others. Additionally, I've built NFT Marketplaces using React and Express.js, ensuring seamless user experiences
-I have very good experience in developing frontend using JavaScript and its frameworks like React and Next.js including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area.  I am professional in Node.js, especially Express and Nest.js, familiar with Restful API and GraphQL, integrated numerous third-party API like Calendly API, Zoom SDK, Coinbase API and so on.
+Thanks for taking out time to reach out.
+I am a dedicated Blockchain Developer with a mission to drive digital transformation through secure and efficient blockchain solutions.
+As a talented freelancer, I bring 4+ years of expertise in blockchain development, specializing in DEXs, bot creation and building casino sites.
 
 
 
